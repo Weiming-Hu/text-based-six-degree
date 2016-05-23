@@ -1,6 +1,6 @@
 #Text-based Six Degree Project
 
-**Date: Mar. 2016**
+**Date: May. 2016**
 
 This module is to prove the Six Degree theory on a text base.
 
@@ -9,6 +9,7 @@ This module is to prove the Six Degree theory on a text base.
 Hi there! Thank you for your concern. I have only finished the basic searching algorithms, and there are other things to be done. If you
 - know how to deploy the project to any cloud,
 - can think of a better searching algorithm or any other fun idea,
+
 please contact me (Weiming @ the bottom of this page). I need your help !
 
 ##Quick Look
