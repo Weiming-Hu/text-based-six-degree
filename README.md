@@ -43,7 +43,7 @@ Multiprocessing is used.
 
 This is a unit test module.
 
-##### pdf2txt.py#
+##### pdf2txt.py
 
 This is copied from the third package, PDFminer, to convert PDF files to TXT files.
 
