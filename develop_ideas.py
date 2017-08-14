@@ -21,7 +21,7 @@ from urllib import urlopen
 import re
 
 # customized function
-import find_neighbors_in_sentence
+from find_neighbors_in_sentence import find_neighbors_in_sentence
 
 for url in search('"Breaking Code" WordPress blog', stop=20):
     print(url)
@@ -36,4 +36,7 @@ sentences = re.findall(r"(.*? " + target + r" .*?\.)", soup.get_text())
 friends = []
 for sentence in sentences:
     neis = find_neighbors_in_sentence(target, sentence)
-    friends.append(neis)
+    friends += neis
+
+# there should be a way to know what sentence the friend is coming from
+# a way to trace the searching of friends
