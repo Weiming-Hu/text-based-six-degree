@@ -4,6 +4,10 @@
 
 The purpose of this project is ot prove [Six Degrees of Seperation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) using a text-based approach, rather than emails and other social network methods.
 
+## Make Contributions
+
+If you are interested in making any contributions, please contact [Weiming](weiming@psu.edu). Thank you!
+
 ## Quick Look
 
 I propose that every English word is like a lively individual that is assigned with a meaning and can be used under different situations, and articles, news letters, academic papers, and so on, have formed a human-like society. Each word can be defined as a friend to its directly adjacent words. By studying the connection between any two words, I try to discover and prove Six Degree of Seperation.
